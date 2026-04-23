@@ -31,14 +31,9 @@ This project presents an interactive ECOMMERCE SALES DASHBOARD built using Power
 - Clothing category contributes the highest quantity sold (63%)  
 - COD (Cash on Delivery) is the most preferred payment method  
 - Peak profit months: January, March, October, and November  
-- Sub-categories like Printers and Bookcases generate high profits
-  
-
-## 📷 Dashboard Preview
+- Sub-categories like Printers and Bookcases generate high profit.
 
  
-
-
 
 ##  Learnings
 - Built interactive dashboards using Power BI  
